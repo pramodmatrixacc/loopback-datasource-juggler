@@ -5,7 +5,7 @@
     "export-tests": true,
     "tag": "lts"
   },
-  "description": "LoopBack DataSource Juggler (SCUFCW Patched) - Added escapeHtml() and modified formatPropertyError() in lib/validations.js for XSS fix. Refer Jira https://matrix-group.atlassian.net/browse/SCUFCW-294 for details.",
+  "description": "LoopBack DataSource Juggler (SCUFCW Patched) - Added escapeHtml() and modified formatPropertyError() in lib/validations.js for XSS fix.",
   "keywords": [
     "StrongLoop",
     "LoopBack",
