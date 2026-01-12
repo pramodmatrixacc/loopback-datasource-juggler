@@ -28,7 +28,6 @@
     "depd": "./lib/browser.depd.js"
   },
   "scripts": {
-    "prepare":"npm install",
     "coverage": "nyc report --reporter=text-lcov | coveralls",
     "lint": "eslint .",
     "tsc": "tsc -p tsconfig.json --outDir dist",
